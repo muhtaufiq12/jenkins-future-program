@@ -1,2 +1,4 @@
 @Library('test-libs') _
-deliveryPipeline()
+deliveryPipeline(
+	"server": "192.168.0.54"
+)
